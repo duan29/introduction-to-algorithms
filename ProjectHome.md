@@ -1,0 +1,3 @@
+Introduction to Algorithms, 2nd edition by Cormen, Leiserson, Rivest and Stein contains numerous examples written in pseudocode. This project implements each of these pseudocode examples in Python.
+
+This project is useful for learning Python and algorithms. Ideally, someone using the Introduction to Algorithms textbook could follow the examples in Python rather than learning the text's form of pseudocode.
